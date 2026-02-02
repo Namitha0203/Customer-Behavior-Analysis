@@ -1,26 +1,26 @@
-## Project Overview
+# Project Overview
 This project analyzes customer behavior using statistical and mathematical tools in Python.
 The primary goal is to identify patterns in spending, factors influencing churn, and differences across demographic and marketing groups.
 
 The dataset includes the following fields:
 
-# CustomerID
+### CustomerID
 
-# Gender
+### Gender
 
-# Region
+### Region
 
-# PurchaseAmount
+### PurchaseAmount
 
-# ProductCategory
+### ProductCategory
 
-# Churn (Yes/No)
+### Churn (Yes/No)
 
-# CampaignGroup (A/B)
+### CampaignGroup (A/B)
 
 The analysis covers descriptive statistics, hypothesis testing, normality checks, and confidence interval estimation.
 
-## Technologies Used
+# Technologies Used
 Python
 
 Pandas
@@ -33,7 +33,7 @@ Matplotlib
 
 Seaborn
 
-## Objectives
+# Objectives
 * Understand customer spending patterns
 
 * Detect outliers and distribution characteristics
@@ -108,7 +108,7 @@ The interval provides a range in which the true average PurchaseAmount is likely
 
 
 
-## Conclusion
+# Conclusion
 This project provides a comprehensive statistical understanding of customer behavior.
 Key insights include:
 
